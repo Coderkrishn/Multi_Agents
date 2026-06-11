@@ -1,0 +1,17 @@
+# Project .gitignore - combined entries
+.env
+.venv/
+__pycache__/
+*.pyc
+tempCodeRunnerFile.py
+
+# Optional: ignore Python bytecode and cache directories
+*.pyo
+*.pyd
+build/
+dist/
+eggs/
+*.egg-info/
+
+# Virtual environment
+venv/
