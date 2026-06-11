@@ -20,3 +20,4 @@ httpx==0.28.1
 
 rich==14.1.0
 loguru==0.7.3
+streamlit>=1.45.0
